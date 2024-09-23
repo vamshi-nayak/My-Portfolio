@@ -31,7 +31,7 @@ export default function Home() {
              </div>
              <div className='w-1/2 flex flex-col item-center self-center pl-0 pr-10 pt-0 lg:w-full lg:text-center'>
               <AnimatedText text="Crafting Bridge Between Frontend And Backend With Mastery." className='!text-left 
-              xl:!text-5xl lg:!text-center  lg:!text=6xl md:!text-center md:!text-4xl sm:!text-3xl sm:!text-center
+              xl:!text-5xl lg:!text-center  lg:!text=6xl md:!text-center md:!text-4xl sm:!text-2xl sm:!text-center xs:!text-2xl xs:!text-center
               '/>
               <p className='my-4 text-base font-medium md:text-sm sm:text-xs'>
                 As a skilled full-stack developer, I am dedicated to turning ideas into innovative web applications. 
