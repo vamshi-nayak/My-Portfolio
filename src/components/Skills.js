@@ -27,6 +27,7 @@ const Skills = () => {
         lg:bg-circularLightLg lg:dark:bg-circularDarkLg
         md:bg-circularLightLg md:dark:bg-circularDarkLg
         sm:bg-circularLightLg sm:dark:bg-circularDarkLg
+        xs:bg-circularLightXs xs:dark:bg-circularDarkXs
         ">
                    
                      <motion.div className='flex items-center rounded-full font-semibold bg-dark text-light
