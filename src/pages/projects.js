@@ -163,7 +163,7 @@ const projects = () => {
                 title="My-Portfolio"
                 img={project3}
                 link="/"
-                github="https://github.com/vamshi-nayak/portfolio"
+                github="https://github.com/vamshi-nayak/My-Portfolio"
                 type="website"
               />
             </div>
