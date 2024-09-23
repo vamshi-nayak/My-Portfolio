@@ -51,6 +51,12 @@ module.exports = {
 
     circularDarkSm:
         "repeating-radial-gradient(rgba(255,255,255,0.5) 2px,#1b1b1b 4px,#1b1b1b 40px)",
+       
+    circularLightXs:
+        "repeating-radial-gradient(rgba(0,0,0,0.4) 2px,#f5f5f5 4px,#f5f5f5 20px)",
+
+    circularDarkXs:
+        "repeating-radial-gradient(rgba(255,255,255,0.5) 2px,#1b1b1b 2px,#1b1b1b 20px)",
 
       }
     },
