@@ -19,7 +19,7 @@ const about = () => {
         <TransitionEffect/>
         <main className='w-full flex flex-col items-center justify-center ml-10 mt-8 dark:text-light'>
             <Layout className='pt-16'>
-            <AnimatedText text="Hey i'am Vamshi Nayak !" className='mb-16 lg:!text-7xl sm:!text-6xl xs:!text-4xl sm:mb-8'/>
+            <AnimatedText text="Hey i'm Vamshi Nayak !" className='mb-16 lg:!text-7xl sm:!text-6xl xs:!text-4xl sm:mb-8'/>
             <div className='grid w-full grid-cols-8 gap-16 sm:gap-8 '>
                 <div className="col-span-4 flex flex-col items-start justify-start xl:col-span-6 md:order-2 md:col-span-7">
                     <h1 className="mb-4 mt-3 text-lg font-bold uppercase text-dark/75 dark:text-light">Biography</h1>
